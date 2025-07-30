@@ -18,7 +18,7 @@
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
-            <version>4.4.0</version> <!-- Use the latest version -->
+            <version>4.34.0</version> <!-- Use the latest version -->
         </dependency>
         <dependency>
             <groupId>org.apache.poi</groupId>
