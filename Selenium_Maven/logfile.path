@@ -1,0 +1,1228 @@
+Oct 15, 2024 11:47:56 AM org.example.Main main
+INFO: Saxon-EE-->net.sf.saxon 
+Oct 15, 2024 11:47:56 AM org.example.Main main
+INFO: Group Id amended for Saxon-EE --> Saxon-EE-->com.saxonica 
+Oct 15, 2024 11:48:03 AM org.example.Main main
+INFO: version free vulnerable -->10.2
+Oct 15, 2024 11:48:03 AM org.example.Main main
+INFO: Latest version -->12.2
+Oct 15, 2024 11:48:03 AM org.example.Main main
+INFO: Latest version date -->Apr 27, 2023
+Oct 15, 2024 11:48:07 AM org.example.Main main
+INFO: dcp-lib-functional-core-->uk.org.fca.gabriel 
+Oct 15, 2024 11:48:08 AM org.example.Main main
+WARNING: no such element: Unable to locate element: {"method":"css selector","selector":".tab_container"}
+  (Session info: chrome=129.0.6668.100)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'AAP-5CG0234R6R', ip: '192.168.7.51', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_351'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a3eb73bf4eedb7d31674d72b08809fcd, findElement {using=class name, value=tab_container}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.100, chrome: {chromedriverVersion: 129.0.6668.91 (b00bc8b76d60..., userDataDir: C:\Users\YRAVIC~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64797}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64797/devtoo..., se:cdpVersion: 129.0.6668.100, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a3eb73bf4eedb7d31674d72b08809fcd
+Oct 15, 2024 11:48:08 AM org.example.Main main
+WARNING: https://mvnrepository.com/artifact/uk.org.fca.gabriel/dcp-lib-functional-core---> Internal lib skipping it
+Oct 15, 2024 11:48:10 AM org.example.Main main
+INFO: validation-api-->javax.validation 
+Oct 15, 2024 11:48:20 AM org.example.Main main
+INFO: version free vulnerable -->1.0.Beta4
+Oct 15, 2024 11:48:20 AM org.example.Main main
+INFO: Latest version -->2.0.1.Final
+Oct 15, 2024 11:48:20 AM org.example.Main main
+INFO: Latest version date -->Dec 19, 2017
+Oct 15, 2024 11:48:24 AM org.example.Main main
+INFO: junit-->junit 
+Oct 15, 2024 11:48:28 AM org.example.Main main
+INFO: version free vulnerable -->4.13.1
+Oct 15, 2024 11:48:28 AM org.example.Main main
+INFO: Latest version -->4.13.2
+Oct 15, 2024 11:48:28 AM org.example.Main main
+INFO: Latest version date -->Feb 13, 2021
+Oct 15, 2024 11:48:31 AM org.example.Main main
+INFO: mockito-core-->org.mockito 
+Oct 15, 2024 11:49:25 AM org.example.Main main
+INFO: version free vulnerable -->1.5
+Oct 15, 2024 11:49:25 AM org.example.Main main
+INFO: Latest version -->5.14.1
+Oct 15, 2024 11:49:25 AM org.example.Main main
+INFO: Latest version date -->Sep 30, 2024
+Oct 15, 2024 11:49:27 AM org.example.Main main
+INFO: junit-jupiter-api-->org.junit.jupiter 
+Oct 15, 2024 11:49:45 AM org.example.Main main
+INFO: version free vulnerable -->5.0.0-M2
+Oct 15, 2024 11:49:45 AM org.example.Main main
+INFO: Latest version -->5.11.2
+Oct 15, 2024 11:49:45 AM org.example.Main main
+INFO: Latest version date -->Oct 04, 2024
+Oct 15, 2024 11:49:48 AM org.example.Main main
+INFO: junit-jupiter-->org.junit.jupiter 
+Oct 15, 2024 11:50:03 AM org.example.Main main
+INFO: version free vulnerable -->5.4.0-RC1
+Oct 15, 2024 11:50:03 AM org.example.Main main
+INFO: Latest version -->5.11.2
+Oct 15, 2024 11:50:03 AM org.example.Main main
+INFO: Latest version date -->Oct 04, 2024
+Oct 15, 2024 11:50:06 AM org.example.Main main
+INFO: junit-jupiter-engine-->org.junit.jupiter 
+Oct 15, 2024 11:50:23 AM org.example.Main main
+INFO: version free vulnerable -->5.0.0-M2
+Oct 15, 2024 11:50:23 AM org.example.Main main
+INFO: Latest version -->5.11.2
+Oct 15, 2024 11:50:23 AM org.example.Main main
+INFO: Latest version date -->Oct 04, 2024
+Oct 15, 2024 11:50:26 AM org.example.Main main
+INFO: spring-boot-starter-web-->org.springframework.boot 
+Oct 15, 2024 11:50:44 AM org.example.Main main
+INFO: version free vulnerable -->2.6.6
+Oct 15, 2024 11:50:44 AM org.example.Main main
+INFO: Latest version -->3.3.4
+Oct 15, 2024 11:50:44 AM org.example.Main main
+INFO: Latest version date -->Sep 19, 2024
+Oct 15, 2024 11:50:46 AM org.example.Main main
+INFO: spring-boot-starter-actuator-->org.springframework.boot 
+Oct 15, 2024 11:51:22 AM org.example.Main main
+INFO: version free vulnerable -->1.0.1.RELEASE
+Oct 15, 2024 11:51:22 AM org.example.Main main
+INFO: Latest version -->3.3.4
+Oct 15, 2024 11:51:22 AM org.example.Main main
+INFO: Latest version date -->Sep 19, 2024
+Oct 15, 2024 11:51:25 AM org.example.Main main
+INFO: aws-java-sdk-dynamodb-->com.amazonaws 
+Oct 15, 2024 11:55:12 AM org.example.Main main
+INFO: version free vulnerable -->1.9.1
+Oct 15, 2024 11:55:12 AM org.example.Main main
+INFO: Latest version -->1.12.773
+Oct 15, 2024 11:55:12 AM org.example.Main main
+INFO: Latest version date -->Oct 02, 2024
+Oct 15, 2024 11:55:15 AM org.example.Main main
+INFO: aws-java-sdk-secretsmanager-->com.amazonaws 
+Oct 15, 2024 11:58:09 AM org.example.Main main
+INFO: version free vulnerable -->1.11.310
+Oct 15, 2024 11:58:09 AM org.example.Main main
+INFO: Latest version -->1.12.773
+Oct 15, 2024 11:58:09 AM org.example.Main main
+INFO: Latest version date -->Oct 02, 2024
+Oct 15, 2024 11:58:11 AM org.example.Main main
+INFO: aws-java-sdk-sts-->com.amazonaws 
+Oct 15, 2024 12:01:53 PM org.example.Main main
+INFO: version free vulnerable -->1.9.1
+Oct 15, 2024 12:01:53 PM org.example.Main main
+INFO: Latest version -->1.12.773
+Oct 15, 2024 12:01:53 PM org.example.Main main
+INFO: Latest version date -->Oct 02, 2024
+Oct 15, 2024 12:01:56 PM org.example.Main main
+INFO: spring-jdbc-->org.springframework 
+Oct 15, 2024 12:02:37 PM org.example.Main main
+INFO: version free vulnerable -->1.2-rc1
+Oct 15, 2024 12:02:37 PM org.example.Main main
+INFO: Latest version -->6.1.13
+Oct 15, 2024 12:02:37 PM org.example.Main main
+INFO: Latest version date -->Sep 12, 2024
+Oct 15, 2024 12:02:39 PM org.example.Main main
+INFO: mysql-connector-java-->mysql 
+Oct 15, 2024 12:02:44 PM org.example.Main main
+INFO: version free vulnerable -->8.0.28
+Oct 15, 2024 12:02:44 PM org.example.Main main
+INFO: Latest version -->8.0.33
+Oct 15, 2024 12:02:44 PM org.example.Main main
+INFO: Latest version date -->Apr 18, 2023
+Oct 15, 2024 12:02:47 PM org.example.Main main
+INFO: logback-classic-->ch.qos.logback 
+Oct 15, 2024 12:02:49 PM org.example.Main main
+INFO:  Element found 
+Oct 15, 2024 12:02:53 PM org.example.Main main
+INFO: version free vulnerable -->1.4.12
+Oct 15, 2024 12:02:53 PM org.example.Main main
+INFO: Latest version -->1.5.10
+Oct 15, 2024 12:02:53 PM org.example.Main main
+INFO: Latest version date -->Oct 12, 2024
+Oct 15, 2024 12:02:55 PM org.example.Main main
+INFO: commons-lang3-->org.apache.commons 
+Oct 15, 2024 12:02:58 PM org.example.Main main
+INFO:  Element found 
+Oct 15, 2024 12:03:02 PM org.example.Main main
+INFO: version free vulnerable -->3.0.1
+Oct 15, 2024 12:03:02 PM org.example.Main main
+INFO: Latest version -->3.17.0
+Oct 15, 2024 12:03:02 PM org.example.Main main
+INFO: Latest version date -->Aug 29, 2024
+Oct 15, 2024 12:03:05 PM org.example.Main main
+INFO: spring-boot-starter-test-->org.springframework.boot 
+Oct 15, 2024 12:03:38 PM org.example.Main main
+INFO: version free vulnerable -->1.0.1.RELEASE
+Oct 15, 2024 12:03:38 PM org.example.Main main
+INFO: Latest version -->3.3.4
+Oct 15, 2024 12:03:38 PM org.example.Main main
+INFO: Latest version date -->Sep 19, 2024
+Oct 15, 2024 12:03:41 PM org.example.Main main
+INFO: gson-->com.google.code.gson 
+Oct 15, 2024 12:03:45 PM org.example.Main main
+INFO: version free vulnerable -->2.8.9
+Oct 15, 2024 12:03:45 PM org.example.Main main
+INFO: Latest version -->2.11.0
+Oct 15, 2024 12:03:45 PM org.example.Main main
+INFO: Latest version date -->May 19, 2024
+Oct 15, 2024 12:03:48 PM org.example.Main main
+INFO: javax.ws.rs-api-->javax.ws.rs 
+Oct 15, 2024 12:03:57 PM org.example.Main main
+INFO: version free vulnerable -->2.0-m02
+Oct 15, 2024 12:03:57 PM org.example.Main main
+INFO: Latest version -->2.1.1
+Oct 15, 2024 12:03:57 PM org.example.Main main
+INFO: Latest version date -->Sep 09, 2018
+Oct 15, 2024 12:04:01 PM org.example.Main main
+INFO: dcp-lib-functional-core-->uk.org.fca.gabriel 
+Oct 15, 2024 12:04:01 PM org.example.Main main
+WARNING: no such element: Unable to locate element: {"method":"css selector","selector":".tab_container"}
+  (Session info: chrome=129.0.6668.100)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'AAP-5CG0234R6R', ip: '192.168.7.51', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_351'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5794c29b940d882fe2be549bf20e28c7, findElement {using=class name, value=tab_container}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.100, chrome: {chromedriverVersion: 129.0.6668.91 (b00bc8b76d60..., userDataDir: C:\Users\YRAVIC~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51891}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51891/devtoo..., se:cdpVersion: 129.0.6668.100, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5794c29b940d882fe2be549bf20e28c7
+Oct 15, 2024 12:04:01 PM org.example.Main main
+WARNING: https://mvnrepository.com/artifact/uk.org.fca.gabriel/dcp-lib-functional-core---> Internal lib skipping it
+Oct 15, 2024 12:04:03 PM org.example.Main main
+INFO: Saxon-EE-->net.sf.saxon 
+Oct 15, 2024 12:04:03 PM org.example.Main main
+INFO: Group Id amended for Saxon-EE --> Saxon-EE-->com.saxonica 
+Oct 15, 2024 12:04:11 PM org.example.Main main
+INFO: version free vulnerable -->10.2
+Oct 15, 2024 12:04:11 PM org.example.Main main
+INFO: Latest version -->12.2
+Oct 15, 2024 12:04:11 PM org.example.Main main
+INFO: Latest version date -->Apr 27, 2023
+Oct 15, 2024 12:04:14 PM org.example.Main main
+INFO: woodstox-core-->com.fasterxml.woodstox 
+Oct 15, 2024 12:04:19 PM org.example.Main main
+INFO: version free vulnerable -->6.4.0
+Oct 15, 2024 12:04:19 PM org.example.Main main
+INFO: Latest version -->7.0.0
+Oct 15, 2024 12:04:19 PM org.example.Main main
+INFO: Latest version date -->Jun 22, 2024
+Oct 15, 2024 12:04:22 PM org.example.Main main
+INFO: json-->org.json 
+Oct 15, 2024 12:04:25 PM org.example.Main main
+INFO: version free vulnerable -->20231013
+Oct 15, 2024 12:04:25 PM org.example.Main main
+INFO: Latest version -->20240303
+Oct 15, 2024 12:04:25 PM org.example.Main main
+INFO: Latest version date -->Mar 03, 2024
+Oct 15, 2024 12:04:28 PM org.example.Main main
+INFO: drools-core-->org.drools 
+Oct 15, 2024 12:04:43 PM org.example.Main main
+INFO: version free vulnerable -->7.69.0.Final
+Oct 15, 2024 12:04:43 PM org.example.Main main
+INFO: Latest version -->9.44.0.Final
+Oct 15, 2024 12:04:43 PM org.example.Main main
+INFO: Latest version date -->Sep 06, 2023
+Oct 15, 2024 12:04:45 PM org.example.Main main
+INFO: kie-spring-->org.kie 
+Oct 15, 2024 12:05:11 PM org.example.Main main
+INFO: version free vulnerable -->6.0.0.Beta4
+Oct 15, 2024 12:05:11 PM org.example.Main main
+INFO: Latest version -->7.74.1.Final
+Oct 15, 2024 12:05:11 PM org.example.Main main
+INFO: Latest version date -->Jul 19, 2023
+Oct 15, 2024 12:05:13 PM org.example.Main main
+INFO: json-simple-->com.googlecode.json-simple 
+Oct 15, 2024 12:05:16 PM org.example.Main main
+INFO: version free vulnerable -->1.1.1
+Oct 15, 2024 12:05:16 PM org.example.Main main
+INFO: Latest version -->1.1.1
+Oct 15, 2024 12:05:16 PM org.example.Main main
+INFO: Latest version date -->Mar 21, 2012
+Oct 15, 2024 12:05:18 PM org.example.Main main
+INFO: jackson-dataformat-xml-->com.fasterxml.jackson.dataformat 
+Oct 15, 2024 12:05:36 PM org.example.Main main
+INFO: version free vulnerable -->2.8.4
+Oct 15, 2024 12:05:36 PM org.example.Main main
+INFO: Latest version -->2.18.0
+Oct 15, 2024 12:05:36 PM org.example.Main main
+INFO: Latest version date -->Sep 27, 2024
+Oct 15, 2024 12:05:38 PM org.example.Main main
+INFO: spring-boot-starter-logging-->org.springframework.boot 
+Oct 15, 2024 12:06:12 PM org.example.Main main
+INFO: version free vulnerable -->1.0.1.RELEASE
+Oct 15, 2024 12:06:12 PM org.example.Main main
+INFO: Latest version -->3.3.4
+Oct 15, 2024 12:06:12 PM org.example.Main main
+INFO: Latest version date -->Sep 19, 2024
+Oct 15, 2024 12:06:15 PM org.example.Main main
+INFO: mockito-inline-->org.mockito 
+Oct 15, 2024 12:06:35 PM org.example.Main main
+INFO: version free vulnerable -->2.7.3
+Oct 15, 2024 12:06:35 PM org.example.Main main
+INFO: Latest version -->5.2.0
+Oct 15, 2024 12:06:35 PM org.example.Main main
+INFO: Latest version date -->Mar 09, 2023
+Oct 15, 2024 12:06:38 PM org.example.Main main
+INFO: spring-boot-parameter-store-integration-->com.coveo 
+Oct 15, 2024 12:06:45 PM org.example.Main main
+INFO: version free vulnerable -->1.0.1
+Oct 15, 2024 12:06:45 PM org.example.Main main
+INFO: Latest version -->2.0.0
+Oct 15, 2024 12:06:45 PM org.example.Main main
+INFO: Latest version date -->Aug 05, 2024
+Oct 15, 2024 12:06:49 PM org.example.Main main
+INFO: spring-boot-starter-->org.springframework.boot 
+Oct 15, 2024 12:07:22 PM org.example.Main main
+INFO: version free vulnerable -->1.0.1.RELEASE
+Oct 15, 2024 12:07:22 PM org.example.Main main
+INFO: Latest version -->3.3.4
+Oct 15, 2024 12:07:22 PM org.example.Main main
+INFO: Latest version date -->Sep 19, 2024
+Oct 15, 2024 12:07:25 PM org.example.Main main
+INFO: guava-->com.google.guava 
+Oct 15, 2024 12:07:35 PM org.example.Main main
+INFO: version free vulnerable -->32.0.0-android
+Oct 15, 2024 12:07:35 PM org.example.Main main
+INFO: Latest version -->33.3.1-jre
+Oct 15, 2024 12:07:35 PM org.example.Main main
+INFO: Latest version date -->Sep 23, 2024
+Oct 15, 2024 12:07:38 PM org.example.Main main
+INFO: commons-io-->commons-io 
+Oct 15, 2024 12:07:43 PM org.example.Main main
+INFO: version free vulnerable -->2.14.0
+Oct 15, 2024 12:07:43 PM org.example.Main main
+INFO: Latest version -->2.17.0
+Oct 15, 2024 12:07:43 PM org.example.Main main
+INFO: Latest version date -->Sep 15, 2024
+Oct 15, 2024 12:07:45 PM org.example.Main main
+INFO: vtd-xml-->com.ximpleware 
+Oct 15, 2024 12:07:48 PM org.example.Main main
+INFO: version free vulnerable -->2.12
+Oct 15, 2024 12:07:48 PM org.example.Main main
+INFO: Latest version -->2.13.4
+Oct 15, 2024 12:07:48 PM org.example.Main main
+INFO: Latest version date -->Aug 10, 2017
+Oct 15, 2024 12:07:50 PM org.example.Main main
+INFO: karate-junit4-->com.intuit.karate 
+Oct 15, 2024 12:08:13 PM org.example.Main main
+INFO: version free vulnerable -->0.2.1
+Oct 15, 2024 12:08:13 PM org.example.Main main
+INFO: Latest version -->1.4.0.RC3
+Oct 15, 2024 12:08:13 PM org.example.Main main
+INFO: Latest version date -->Jan 09, 2023
+Oct 15, 2024 12:08:16 PM org.example.Main main
+INFO: karate-apache-->com.intuit.karate 
+Oct 15, 2024 12:08:32 PM org.example.Main main
+INFO: version free vulnerable -->0.3.0.1
+Oct 15, 2024 12:08:32 PM org.example.Main main
+INFO: Latest version -->0.9.6
+Oct 15, 2024 12:08:32 PM org.example.Main main
+INFO: Latest version date -->Aug 24, 2020
+Oct 15, 2024 12:08:35 PM org.example.Main main
+INFO: aws-java-sdk-s3-->com.amazonaws 
+Oct 15, 2024 12:09:54 PM org.example.Main main
+INFO: version free vulnerable -->1.12.261
+Oct 15, 2024 12:09:54 PM org.example.Main main
+INFO: Latest version -->1.12.773
+Oct 15, 2024 12:09:54 PM org.example.Main main
+INFO: Latest version date -->Oct 02, 2024
+Oct 15, 2024 12:09:56 PM org.example.Main main
+INFO: aws-lambda-java-core-->com.amazonaws 
+Oct 15, 2024 12:10:00 PM org.example.Main main
+INFO: version free vulnerable -->1.1.0
+Oct 15, 2024 12:10:00 PM org.example.Main main
+INFO: Latest version -->1.2.3
+Oct 15, 2024 12:10:00 PM org.example.Main main
+INFO: Latest version date -->Aug 18, 2023
+Oct 15, 2024 12:10:03 PM org.example.Main main
+INFO: aws-java-sdk-lambda-->com.amazonaws 
+Oct 15, 2024 12:13:45 PM org.example.Main main
+INFO: version free vulnerable -->1.9.7
+Oct 15, 2024 12:13:45 PM org.example.Main main
+INFO: Latest version -->1.12.773
+Oct 15, 2024 12:13:45 PM org.example.Main main
+INFO: Latest version date -->Oct 02, 2024
+Oct 15, 2024 12:13:48 PM org.example.Main main
+INFO: aws-lambda-java-events-->com.amazonaws 
+Oct 15, 2024 12:13:59 PM org.example.Main main
+INFO: version free vulnerable -->1.1.0
+Oct 15, 2024 12:13:59 PM org.example.Main main
+INFO: Latest version -->3.14.0
+Oct 15, 2024 12:13:59 PM org.example.Main main
+INFO: Latest version date -->Sep 16, 2024
+Oct 15, 2024 12:14:02 PM org.example.Main main
+INFO: spring-boot-starter-jdbc-->org.springframework.boot 
+Oct 15, 2024 12:14:35 PM org.example.Main main
+INFO: version free vulnerable -->1.0.1.RELEASE
+Oct 15, 2024 12:14:35 PM org.example.Main main
+INFO: Latest version -->3.3.4
+Oct 15, 2024 12:14:35 PM org.example.Main main
+INFO: Latest version date -->Sep 19, 2024
+Oct 15, 2024 12:14:37 PM org.example.Main main
+INFO: spring-boot-starter-freemarker-->org.springframework.boot 
+Oct 15, 2024 12:15:10 PM org.example.Main main
+INFO: version free vulnerable -->1.1.1.RELEASE
+Oct 15, 2024 12:15:10 PM org.example.Main main
+INFO: Latest version -->3.3.4
+Oct 15, 2024 12:15:10 PM org.example.Main main
+INFO: Latest version date -->Sep 19, 2024
+Oct 15, 2024 12:15:13 PM org.example.Main main
+INFO: javax.persistence-api-->javax.persistence 
+Oct 15, 2024 12:15:15 PM org.example.Main main
+INFO: version free vulnerable -->NA
+Oct 15, 2024 12:15:15 PM org.example.Main main
+INFO: Latest version -->2.2
+Oct 15, 2024 12:15:15 PM org.example.Main main
+INFO: Latest version date -->Aug 21, 2017
+Oct 15, 2024 12:15:17 PM org.example.Main main
+INFO: mail-->javax.mail 
+Oct 15, 2024 12:15:25 PM org.example.Main main
+INFO: version free vulnerable -->1.3.2
+Oct 15, 2024 12:15:25 PM org.example.Main main
+INFO: Latest version -->1.5.0-b01
+Oct 15, 2024 12:15:25 PM org.example.Main main
+INFO: Latest version date -->Mar 05, 2013
+Oct 15, 2024 12:15:28 PM org.example.Main main
+INFO: spring-test-->org.springframework 
+Oct 15, 2024 12:16:04 PM org.example.Main main
+INFO: version free vulnerable -->2.5.1
+Oct 15, 2024 12:16:04 PM org.example.Main main
+INFO: Latest version -->6.1.13
+Oct 15, 2024 12:16:04 PM org.example.Main main
+INFO: Latest version date -->Sep 12, 2024
+Oct 15, 2024 12:16:07 PM org.example.Main main
+INFO: freemarker-->org.freemarker 
+Oct 15, 2024 12:16:17 PM org.example.Main main
+INFO: version free vulnerable -->2.3.10
+Oct 15, 2024 12:16:17 PM org.example.Main main
+INFO: Latest version -->2.3.33
+Oct 15, 2024 12:16:17 PM org.example.Main main
+INFO: Latest version date -->Jun 01, 2024
+Oct 15, 2024 12:16:20 PM org.example.Main main
+INFO: dom4j-->org.dom4j 
+Oct 15, 2024 12:16:23 PM org.example.Main main
+INFO: version free vulnerable -->NA
+Oct 15, 2024 12:16:23 PM org.example.Main main
+INFO: Latest version -->2.1.4
+Oct 15, 2024 12:16:23 PM org.example.Main main
+INFO: Latest version date -->Jan 22, 2023
+Oct 15, 2024 12:16:25 PM org.example.Main main
+INFO: dcp-lib-psd-functional-core-->uk.org.fca.gabriel 
+Oct 15, 2024 12:16:26 PM org.example.Main main
+WARNING: no such element: Unable to locate element: {"method":"css selector","selector":".tab_container"}
+  (Session info: chrome=129.0.6668.100)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'AAP-5CG0234R6R', ip: '192.168.7.51', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_351'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [59690fd2a38dbc7259d7c19ac92d7f48, findElement {using=class name, value=tab_container}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.100, chrome: {chromedriverVersion: 129.0.6668.91 (b00bc8b76d60..., userDataDir: C:\Users\YRAVIC~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56718}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56718/devtoo..., se:cdpVersion: 129.0.6668.100, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 59690fd2a38dbc7259d7c19ac92d7f48
+Oct 15, 2024 12:16:26 PM org.example.Main main
+WARNING: https://mvnrepository.com/artifact/uk.org.fca.gabriel/dcp-lib-psd-functional-core---> Internal lib skipping it
+Oct 15, 2024 12:16:28 PM org.example.Main main
+INFO: dcp-lib-platform-core-->uk.org.fca.gabriel 
+Oct 15, 2024 12:16:28 PM org.example.Main main
+WARNING: no such element: Unable to locate element: {"method":"css selector","selector":".tab_container"}
+  (Session info: chrome=129.0.6668.100)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'AAP-5CG0234R6R', ip: '192.168.7.51', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_351'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [240a3eda1b72514ee627f3fd3b379010, findElement {using=class name, value=tab_container}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.100, chrome: {chromedriverVersion: 129.0.6668.91 (b00bc8b76d60..., userDataDir: C:\Users\YRAVIC~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56736}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56736/devtoo..., se:cdpVersion: 129.0.6668.100, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 240a3eda1b72514ee627f3fd3b379010
+Oct 15, 2024 12:16:28 PM org.example.Main main
+WARNING: https://mvnrepository.com/artifact/uk.org.fca.gabriel/dcp-lib-platform-core---> Internal lib skipping it
+Oct 15, 2024 12:16:30 PM org.example.Main main
+INFO: spring-data-commons-->org.springframework.data 
+Oct 15, 2024 12:16:58 PM org.example.Main main
+INFO: version free vulnerable -->2.0.7.RELEASE
+Oct 15, 2024 12:16:58 PM org.example.Main main
+INFO: Latest version -->3.3.4
+Oct 15, 2024 12:16:58 PM org.example.Main main
+INFO: Latest version date -->Sep 13, 2024
+Oct 15, 2024 12:17:01 PM org.example.Main main
+INFO: commons-text-->org.apache.commons 
+Oct 15, 2024 12:17:04 PM org.example.Main main
+INFO: version free vulnerable -->1.10.0
+Oct 15, 2024 12:17:04 PM org.example.Main main
+INFO: Latest version -->1.12.0
+Oct 15, 2024 12:17:04 PM org.example.Main main
+INFO: Latest version date -->Apr 16, 2024
+Oct 15, 2024 12:17:06 PM org.example.Main main
+INFO: fast-md5-->com.joyent.util 
+Oct 15, 2024 12:17:08 PM org.example.Main main
+INFO: version free vulnerable -->NA
+Oct 15, 2024 12:17:08 PM org.example.Main main
+INFO: Latest version -->2.7.1
+Oct 15, 2024 12:17:08 PM org.example.Main main
+INFO: Latest version date -->Sep 05, 2017
+Oct 15, 2024 12:17:10 PM org.example.Main main
+INFO: junit-vintage-engine-->org.junit.vintage 
+Oct 15, 2024 12:17:27 PM org.example.Main main
+INFO: version free vulnerable -->4.12.0-M2
+Oct 15, 2024 12:17:27 PM org.example.Main main
+INFO: Latest version -->5.11.2
+Oct 15, 2024 12:17:27 PM org.example.Main main
+INFO: Latest version date -->Oct 04, 2024
+Oct 15, 2024 12:17:30 PM org.example.Main main
+INFO: spring-web-->org.springframework 
+Oct 15, 2024 12:17:40 PM org.example.Main main
+INFO: version free vulnerable -->6.1.12
+Oct 15, 2024 12:17:40 PM org.example.Main main
+INFO: Latest version -->6.1.13
+Oct 15, 2024 12:17:40 PM org.example.Main main
+INFO: Latest version date -->Sep 12, 2024
+Oct 15, 2024 12:17:42 PM org.example.Main main
+INFO: aws-java-sdk-core-->com.amazonaws 
+Oct 15, 2024 12:21:42 PM org.example.Main main
+INFO: version free vulnerable -->1.8.10.1
+Oct 15, 2024 12:21:42 PM org.example.Main main
+INFO: Latest version -->1.12.773
+Oct 15, 2024 12:21:42 PM org.example.Main main
+INFO: Latest version date -->Oct 02, 2024
+Oct 15, 2024 12:21:46 PM org.example.Main main
+INFO: json-path-->com.jayway.jsonpath 
+Oct 15, 2024 12:21:49 PM org.example.Main main
+INFO: version free vulnerable -->2.9.0
+Oct 15, 2024 12:21:49 PM org.example.Main main
+INFO: Latest version -->2.9.0
+Oct 15, 2024 12:21:49 PM org.example.Main main
+INFO: Latest version date -->Jan 20, 2024
+Oct 15, 2024 12:21:53 PM org.example.Main main
+INFO: testcontainers-->org.testcontainers 
+Oct 15, 2024 12:22:17 PM org.example.Main main
+INFO: version free vulnerable -->0.9.7
+Oct 15, 2024 12:22:17 PM org.example.Main main
+INFO: Latest version -->1.20.2
+Oct 15, 2024 12:22:17 PM org.example.Main main
+INFO: Latest version date -->Sep 30, 2024
+Oct 15, 2024 12:22:20 PM org.example.Main main
+INFO: dynalite-->org.testcontainers 
+Oct 15, 2024 12:22:37 PM org.example.Main main
+INFO: version free vulnerable -->1.4.3
+Oct 15, 2024 12:22:37 PM org.example.Main main
+INFO: Latest version -->1.20.2
+Oct 15, 2024 12:22:37 PM org.example.Main main
+INFO: Latest version date -->Sep 30, 2024
+Oct 15, 2024 12:22:40 PM org.example.Main main
+INFO: dd-trace-api-->com.datadoghq 
+Oct 15, 2024 12:23:17 PM org.example.Main main
+INFO: version free vulnerable -->0.3.0.RC2
+Oct 15, 2024 12:23:17 PM org.example.Main main
+INFO: Latest version -->1.40.1
+Oct 15, 2024 12:23:17 PM org.example.Main main
+INFO: Latest version date -->Oct 03, 2024
+Oct 15, 2024 12:23:20 PM org.example.Main main
+INFO: poi-ooxml-->org.apache.poi 
+Oct 15, 2024 12:23:37 PM org.example.Main main
+INFO: version free vulnerable -->3.5-beta5
+Oct 15, 2024 12:23:37 PM org.example.Main main
+INFO: Latest version -->5.3.0
+Oct 15, 2024 12:23:37 PM org.example.Main main
+INFO: Latest version date -->Jul 02, 2024
+Oct 15, 2024 12:23:40 PM org.example.Main main
+INFO: spring-data-dynamodb-->com.github.derjust 
+Oct 15, 2024 12:23:51 PM org.example.Main main
+INFO: version free vulnerable -->4.2.0
+Oct 15, 2024 12:23:51 PM org.example.Main main
+INFO: Latest version -->5.1.0
+Oct 15, 2024 12:23:51 PM org.example.Main main
+INFO: Latest version date -->Jan 28, 2019
+Oct 15, 2024 12:23:53 PM org.example.Main main
+INFO: poi-->org.apache.poi 
+Oct 15, 2024 12:24:01 PM org.example.Main main
+INFO: version free vulnerable -->4.1.1
+Oct 15, 2024 12:24:01 PM org.example.Main main
+INFO: Latest version -->5.3.0
+Oct 15, 2024 12:24:01 PM org.example.Main main
+INFO: Latest version date -->Jul 02, 2024
+Oct 15, 2024 12:24:05 PM org.example.Main main
+INFO: xstream-->com.thoughtworks.xstream 
+Oct 15, 2024 12:24:08 PM org.example.Main main
+INFO: version free vulnerable -->1.4.20
+Oct 15, 2024 12:24:08 PM org.example.Main main
+INFO: Latest version -->1.4.20
+Oct 15, 2024 12:24:08 PM org.example.Main main
+INFO: Latest version date -->Dec 24, 2022
+Oct 15, 2024 12:24:10 PM org.example.Main main
+INFO: snakeyaml-->org.yaml 
+Oct 15, 2024 12:24:18 PM org.example.Main main
+INFO: version free vulnerable -->2.0
+Oct 15, 2024 12:24:18 PM org.example.Main main
+INFO: Latest version -->2.3
+Oct 15, 2024 12:24:18 PM org.example.Main main
+INFO: Latest version date -->Aug 31, 2024
+Oct 15, 2024 12:24:22 PM org.example.Main main
+INFO: jackson-databind-->com.fasterxml.jackson.core 
+Oct 15, 2024 12:24:35 PM org.example.Main main
+INFO: version free vulnerable -->2.13.4.2
+Oct 15, 2024 12:24:35 PM org.example.Main main
+INFO: Latest version -->2.18.0
+Oct 15, 2024 12:24:35 PM org.example.Main main
+INFO: Latest version date -->Sep 27, 2024
+Oct 15, 2024 12:24:38 PM org.example.Main main
+INFO: staxon-->de.odysseus.staxon 
+Oct 15, 2024 12:24:42 PM org.example.Main main
+INFO: version free vulnerable -->0.9.2
+Oct 15, 2024 12:24:42 PM org.example.Main main
+INFO: Latest version -->1.3
+Oct 15, 2024 12:24:42 PM org.example.Main main
+INFO: Latest version date -->Feb 06, 2014
+Oct 15, 2024 12:24:44 PM org.example.Main main
+INFO: java-uuid-generator-->com.fasterxml.uuid 
+Oct 15, 2024 12:24:53 PM org.example.Main main
+INFO: version free vulnerable -->3.1.0
+Oct 15, 2024 12:24:53 PM org.example.Main main
+INFO: Latest version -->5.1.0
+Oct 15, 2024 12:24:53 PM org.example.Main main
+INFO: Latest version date -->Jun 03, 2024
+Oct 15, 2024 12:24:56 PM org.example.Main main
+INFO: aws-java-sdk-ssm-->com.amazonaws 
+Oct 15, 2024 12:29:00 PM org.example.Main main
+INFO: version free vulnerable -->1.9.20.1
+Oct 15, 2024 12:29:00 PM org.example.Main main
+INFO: Latest version -->1.12.773
+Oct 15, 2024 12:29:00 PM org.example.Main main
+INFO: Latest version date -->Oct 02, 2024
+Oct 15, 2024 12:29:04 PM org.example.Main main
+INFO: aws-java-sdk-stepfunctions-->com.amazonaws 
+Oct 15, 2024 12:33:02 PM org.example.Main main
+INFO: version free vulnerable -->1.11.64
+Oct 15, 2024 12:33:02 PM org.example.Main main
+INFO: Latest version -->1.12.773
+Oct 15, 2024 12:33:02 PM org.example.Main main
+INFO: Latest version date -->Oct 02, 2024
+Oct 15, 2024 12:33:05 PM org.example.Main main
+INFO: maven-surefire-plugin-->org.apache.maven.plugins 
+Oct 15, 2024 12:33:22 PM org.example.Main main
+INFO: version free vulnerable -->2.0
+Oct 15, 2024 12:33:22 PM org.example.Main main
+INFO: Latest version -->3.5.1
+Oct 15, 2024 12:33:22 PM org.example.Main main
+INFO: Latest version date -->Oct 06, 2024
+Oct 15, 2024 12:33:26 PM org.example.Main main
+INFO: spring-boot-starter-data-jdbc-->org.springframework.boot 
+Oct 15, 2024 12:33:55 PM org.example.Main main
+INFO: version free vulnerable -->2.1.1.RELEASE
+Oct 15, 2024 12:33:55 PM org.example.Main main
+INFO: Latest version -->3.3.4
+Oct 15, 2024 12:33:55 PM org.example.Main main
+INFO: Latest version date -->Sep 19, 2024
+Oct 15, 2024 12:33:57 PM org.example.Main main
+INFO: jasperreports-fonts-->net.sf.jasperreports 
+Oct 15, 2024 12:34:08 PM org.example.Main main
+INFO: version free vulnerable -->5.6.1
+Oct 15, 2024 12:34:08 PM org.example.Main main
+INFO: Latest version -->7.0.1
+Oct 15, 2024 12:34:08 PM org.example.Main main
+INFO: Latest version date -->Oct 01, 2024
+Oct 15, 2024 12:34:11 PM org.example.Main main
+INFO: ecj-->org.eclipse.jdt.core.compiler 
+Oct 15, 2024 12:34:16 PM org.example.Main main
+INFO: version free vulnerable -->3.3.1
+Oct 15, 2024 12:34:16 PM org.example.Main main
+INFO: Latest version -->4.6.1
+Oct 15, 2024 12:34:16 PM org.example.Main main
+INFO: Latest version date -->Oct 07, 2016
+Oct 15, 2024 12:34:18 PM org.example.Main main
+INFO: jasperreports-->net.sf.jasperreports 
+Oct 15, 2024 12:34:37 PM org.example.Main main
+INFO: version free vulnerable -->3.6.1
+Oct 15, 2024 12:34:37 PM org.example.Main main
+INFO: Latest version -->7.0.1
+Oct 15, 2024 12:34:37 PM org.example.Main main
+INFO: Latest version date -->Oct 01, 2024
+Oct 15, 2024 12:34:40 PM org.example.Main main
+INFO: jsoup-->org.jsoup 
+Oct 15, 2024 12:34:43 PM org.example.Main main
+INFO:  Element found 
+Oct 15, 2024 12:34:45 PM org.example.Main main
+INFO: version free vulnerable -->1.15.3
+Oct 15, 2024 12:34:45 PM org.example.Main main
+INFO: Latest version -->1.18.1
+Oct 15, 2024 12:34:45 PM org.example.Main main
+INFO: Latest version date -->Jul 10, 2024
+Oct 15, 2024 12:34:48 PM org.example.Main main
+INFO: antlr-->antlr 
+Oct 15, 2024 12:34:53 PM org.example.Main main
+INFO: version free vulnerable -->2.7.1
+Oct 15, 2024 12:34:53 PM org.example.Main main
+INFO: Latest version -->3.0ea8
+Oct 15, 2024 12:34:53 PM org.example.Main main
+INFO: Latest version date -->Jan 14, 2007
+Oct 15, 2024 12:34:55 PM org.example.Main main
+INFO: commons-fileupload-->commons-fileupload 
+Oct 15, 2024 12:34:59 PM org.example.Main main
+INFO: version free vulnerable -->1.5
+Oct 15, 2024 12:34:59 PM org.example.Main main
+INFO: Latest version -->1.5
+Oct 15, 2024 12:34:59 PM org.example.Main main
+INFO: Latest version date -->Feb 13, 2023
+Oct 15, 2024 12:35:01 PM org.example.Main main
+INFO: axis2-kernel-->org.apache.axis2 
+Oct 15, 2024 12:35:12 PM org.example.Main main
+INFO: version free vulnerable -->1.1
+Oct 15, 2024 12:35:12 PM org.example.Main main
+INFO: Latest version -->1.8.2
+Oct 15, 2024 12:35:12 PM org.example.Main main
+INFO: Latest version date -->Jul 21, 2022
+Oct 15, 2024 12:35:14 PM org.example.Main main
+INFO: zip4j-->net.lingala 
+Oct 15, 2024 12:35:17 PM org.example.Main main
+INFO: version free vulnerable -->NA
+Oct 15, 2024 12:35:17 PM org.example.Main main
+INFO: Latest version -->1.3.3
+Oct 15, 2024 12:35:17 PM org.example.Main main
+INFO: Latest version date -->May 17, 2019
+Oct 15, 2024 12:35:20 PM org.example.Main main
+INFO: spring-boot-starter-web-services-->org.springframework.boot 
+Oct 15, 2024 12:35:51 PM org.example.Main main
+INFO: version free vulnerable -->1.4.1.RELEASE
+Oct 15, 2024 12:35:51 PM org.example.Main main
+INFO: Latest version -->3.3.4
+Oct 15, 2024 12:35:51 PM org.example.Main main
+INFO: Latest version date -->Sep 19, 2024
+Oct 15, 2024 12:35:54 PM org.example.Main main
+INFO: jaxb-xjc-->com.sun.xml.bind 
+Oct 15, 2024 12:36:23 PM org.example.Main main
+INFO: version free vulnerable -->1.0.6
+Oct 15, 2024 12:36:23 PM org.example.Main main
+INFO: Latest version -->4.0.5
+Oct 15, 2024 12:36:23 PM org.example.Main main
+INFO: Latest version date -->Mar 07, 2024
+Oct 15, 2024 12:36:25 PM org.example.Main main
+INFO: maven-jaxb2-plugin-->org.jvnet.jaxb2.maven2 
+Oct 15, 2024 12:36:38 PM org.example.Main main
+INFO: version free vulnerable -->0.1
+Oct 15, 2024 12:36:38 PM org.example.Main main
+INFO: Latest version -->0.15.3
+Oct 15, 2024 12:36:38 PM org.example.Main main
+INFO: Latest version date -->May 13, 2023
+Oct 15, 2024 12:36:41 PM org.example.Main main
+INFO: axis2-java2wsdl-->org.apache.axis2 
+Oct 15, 2024 12:36:52 PM org.example.Main main
+INFO: version free vulnerable -->1.1.1
+Oct 15, 2024 12:36:52 PM org.example.Main main
+INFO: Latest version -->1.8.2
+Oct 15, 2024 12:36:52 PM org.example.Main main
+INFO: Latest version date -->Jul 21, 2022
+Oct 15, 2024 12:36:55 PM org.example.Main main
+INFO: plexus-utils-->org.codehaus.plexus 
+Oct 15, 2024 12:37:05 PM org.example.Main main
+INFO: version free vulnerable -->3.0.24
+Oct 15, 2024 12:37:05 PM org.example.Main main
+INFO: Latest version -->4.0.2
+Oct 15, 2024 12:37:05 PM org.example.Main main
+INFO: Latest version date -->Sep 24, 2024
+Oct 15, 2024 12:37:07 PM org.example.Main main
+INFO: commons-compress-->org.apache.commons 
+Oct 15, 2024 12:37:12 PM org.example.Main main
+INFO: version free vulnerable -->1.26.0
+Oct 15, 2024 12:37:12 PM org.example.Main main
+INFO: Latest version -->1.27.1
+Oct 15, 2024 12:37:12 PM org.example.Main main
+INFO: Latest version date -->Aug 20, 2024
+Oct 15, 2024 12:37:14 PM org.example.Main main
+INFO: jackson-core-->com.fasterxml.jackson.core 
+Oct 15, 2024 12:37:41 PM org.example.Main main
+INFO: version free vulnerable -->2.0.0-RC2
+Oct 15, 2024 12:37:41 PM org.example.Main main
+INFO: Latest version -->2.18.0
+Oct 15, 2024 12:37:41 PM org.example.Main main
+INFO: Latest version date -->Sep 27, 2024
+Oct 15, 2024 12:37:44 PM org.example.Main main
+INFO: zip4j-->net.lingala.zip4j 
+Oct 15, 2024 12:37:48 PM org.example.Main main
+INFO: version free vulnerable -->2.11.3
+Oct 15, 2024 12:37:48 PM org.example.Main main
+INFO: Latest version -->2.11.5
+Oct 15, 2024 12:37:48 PM org.example.Main main
+INFO: Latest version date -->Feb 22, 2023
+Oct 15, 2024 12:37:51 PM org.example.Main main
+INFO: powermock-api-mockito2-->org.powermock 
+Oct 15, 2024 12:38:01 PM org.example.Main main
+INFO: version free vulnerable -->1.6.6
+Oct 15, 2024 12:38:01 PM org.example.Main main
+INFO: Latest version -->2.0.9
+Oct 15, 2024 12:38:01 PM org.example.Main main
+INFO: Latest version date -->Nov 01, 2020
+Oct 15, 2024 12:38:03 PM org.example.Main main
+INFO: powermock-module-junit4-->org.powermock 
+Oct 15, 2024 12:38:15 PM org.example.Main main
+INFO: version free vulnerable -->1.4.7
+Oct 15, 2024 12:38:15 PM org.example.Main main
+INFO: Latest version -->2.0.9
+Oct 15, 2024 12:38:15 PM org.example.Main main
+INFO: Latest version date -->Nov 01, 2020
+Oct 15, 2024 12:38:18 PM org.example.Main main
+INFO: aws-java-sdk-events-->com.amazonaws 
+Oct 15, 2024 12:41:50 PM org.example.Main main
+INFO: version free vulnerable -->1.10.48
+Oct 15, 2024 12:41:50 PM org.example.Main main
+INFO: Latest version -->1.12.773
+Oct 15, 2024 12:41:50 PM org.example.Main main
+INFO: Latest version date -->Oct 02, 2024
+Oct 15, 2024 12:41:52 PM org.example.Main main
+INFO: spring-session-core-->org.springframework.session 
+Oct 15, 2024 12:42:04 PM org.example.Main main
+INFO: version free vulnerable -->3.0.1
+Oct 15, 2024 12:42:04 PM org.example.Main main
+INFO: Latest version -->3.3.2
+Oct 15, 2024 12:42:04 PM org.example.Main main
+INFO: Latest version date -->Aug 20, 2024
+Oct 15, 2024 12:42:06 PM org.example.Main main
+INFO: spring-session-jdbc-->org.springframework.session 
+Oct 15, 2024 12:42:25 PM org.example.Main main
+INFO: version free vulnerable -->1.2.0.RC2
+Oct 15, 2024 12:42:25 PM org.example.Main main
+INFO: Latest version -->3.3.2
+Oct 15, 2024 12:42:25 PM org.example.Main main
+INFO: Latest version date -->Aug 20, 2024
+Oct 15, 2024 12:42:27 PM org.example.Main main
+INFO: xmlbeans-->org.apache.xmlbeans 
+Oct 15, 2024 12:42:31 PM org.example.Main main
+INFO: version free vulnerable -->3.0.0
+Oct 15, 2024 12:42:31 PM org.example.Main main
+INFO: Latest version -->5.2.1
+Oct 15, 2024 12:42:31 PM org.example.Main main
+INFO: Latest version date -->May 26, 2024
+Oct 15, 2024 12:42:34 PM org.example.Main main
+INFO: slf4j-api-->org.slf4j 
+Oct 15, 2024 12:42:53 PM org.example.Main main
+INFO: version free vulnerable -->1.1.0-RC0
+Oct 15, 2024 12:42:53 PM org.example.Main main
+INFO: Latest version -->2.1.0-alpha1
+Oct 15, 2024 12:42:53 PM org.example.Main main
+INFO: Latest version date -->Jan 02, 2024
+Oct 15, 2024 12:42:55 PM org.example.Main main
+INFO: junit-platform-commons-->org.junit.platform 
+Oct 15, 2024 12:43:13 PM org.example.Main main
+INFO: version free vulnerable -->1.0.0-M2
+Oct 15, 2024 12:43:13 PM org.example.Main main
+INFO: Latest version -->1.11.2
+Oct 15, 2024 12:43:13 PM org.example.Main main
+INFO: Latest version date -->Oct 04, 2024
+Oct 15, 2024 12:43:15 PM org.example.Main main
+INFO: dcp-lib-lambda-core-->uk.org.fca.gabriel 
+Oct 15, 2024 12:43:16 PM org.example.Main main
+WARNING: no such element: Unable to locate element: {"method":"css selector","selector":".tab_container"}
+  (Session info: chrome=129.0.6668.100)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'AAP-5CG0234R6R', ip: '192.168.7.51', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_351'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [282477a012f752e0c818375090b8f551, findElement {using=class name, value=tab_container}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.100, chrome: {chromedriverVersion: 129.0.6668.91 (b00bc8b76d60..., userDataDir: C:\Users\YRAVIC~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64450}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64450/devtoo..., se:cdpVersion: 129.0.6668.100, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 282477a012f752e0c818375090b8f551
+Oct 15, 2024 12:43:16 PM org.example.Main main
+WARNING: https://mvnrepository.com/artifact/uk.org.fca.gabriel/dcp-lib-lambda-core---> Internal lib skipping it
+Oct 15, 2024 12:43:18 PM org.example.Main main
+INFO: commons-collections4-->org.apache.commons 
+Oct 15, 2024 12:43:22 PM org.example.Main main
+INFO: version free vulnerable -->4.1
+Oct 15, 2024 12:43:22 PM org.example.Main main
+INFO: Latest version -->4.5.0-M2
+Oct 15, 2024 12:43:22 PM org.example.Main main
+INFO: Latest version date -->Jun 18, 2024
+Oct 15, 2024 12:43:24 PM org.example.Main main
+INFO: dcp-lib-task-executor-->uk.org.fca.gabriel 
+Oct 15, 2024 12:43:25 PM org.example.Main main
+WARNING: no such element: Unable to locate element: {"method":"css selector","selector":".tab_container"}
+  (Session info: chrome=129.0.6668.100)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'AAP-5CG0234R6R', ip: '192.168.7.51', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_351'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6ec5c4a3416e90f5f46ad1743d5a5fda, findElement {using=class name, value=tab_container}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.100, chrome: {chromedriverVersion: 129.0.6668.91 (b00bc8b76d60..., userDataDir: C:\Users\YRAVIC~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64560}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64560/devtoo..., se:cdpVersion: 129.0.6668.100, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6ec5c4a3416e90f5f46ad1743d5a5fda
+Oct 15, 2024 12:43:25 PM org.example.Main main
+WARNING: https://mvnrepository.com/artifact/uk.org.fca.gabriel/dcp-lib-task-executor---> Internal lib skipping it
+Oct 15, 2024 12:43:27 PM org.example.Main main
+INFO: kie-ci-->org.kie 
+Oct 15, 2024 12:43:29 PM org.example.Main main
+INFO:  Element found 
+Oct 15, 2024 12:43:56 PM org.example.Main main
+INFO: version free vulnerable -->6.0.0.Alpha8
+Oct 15, 2024 12:43:56 PM org.example.Main main
+INFO: Latest version -->9.44.0.Final
+Oct 15, 2024 12:43:56 PM org.example.Main main
+INFO: Latest version date -->Sep 06, 2023
+Oct 15, 2024 12:43:58 PM org.example.Main main
+INFO: commons-codec-->commons-codec 
+Oct 15, 2024 12:44:06 PM org.example.Main main
+INFO: version free vulnerable -->1.1
+Oct 15, 2024 12:44:06 PM org.example.Main main
+INFO: Latest version -->1.17.1
+Oct 15, 2024 12:44:06 PM org.example.Main main
+INFO: Latest version date -->Jul 12, 2024
+Oct 15, 2024 12:44:09 PM org.example.Main main
+INFO: ant-->org.apache.ant 
+Oct 15, 2024 12:44:12 PM org.example.Main main
+INFO: version free vulnerable -->1.10.11
+Oct 15, 2024 12:44:12 PM org.example.Main main
+INFO: Latest version -->1.10.15
+Oct 15, 2024 12:44:12 PM org.example.Main main
+INFO: Latest version date -->Aug 29, 2024
+Oct 15, 2024 12:44:14 PM org.example.Main main
+INFO: springfox-swagger2-->io.springfox 
+Oct 15, 2024 12:44:24 PM org.example.Main main
+INFO: version free vulnerable -->2.0.2
+Oct 15, 2024 12:44:24 PM org.example.Main main
+INFO: Latest version -->3.0.0
+Oct 15, 2024 12:44:24 PM org.example.Main main
+INFO: Latest version date -->Jul 14, 2020
+Oct 15, 2024 12:44:27 PM org.example.Main main
+INFO: springfox-swagger-ui-->io.springfox 
+Oct 15, 2024 12:44:32 PM org.example.Main main
+INFO: version free vulnerable -->2.10.0
+Oct 15, 2024 12:44:32 PM org.example.Main main
+INFO: Latest version -->3.0.0
+Oct 15, 2024 12:44:32 PM org.example.Main main
+INFO: Latest version date -->Jul 14, 2020
+Oct 15, 2024 12:44:34 PM org.example.Main main
+INFO: junit-platform-launcher-->org.junit.platform 
+Oct 15, 2024 12:44:52 PM org.example.Main main
+INFO: version free vulnerable -->1.0.0-M2
+Oct 15, 2024 12:44:52 PM org.example.Main main
+INFO: Latest version -->1.11.2
+Oct 15, 2024 12:44:52 PM org.example.Main main
+INFO: Latest version date -->Oct 04, 2024
+Oct 15, 2024 12:44:54 PM org.example.Main main
+INFO: owasp-java-html-sanitizer-->com.googlecode.owasp-java-html-sanitizer 
+Oct 15, 2024 12:44:57 PM org.example.Main main
+INFO: version free vulnerable -->NA
+Oct 15, 2024 12:44:57 PM org.example.Main main
+INFO: Latest version -->20240325.1
+Oct 15, 2024 12:44:57 PM org.example.Main main
+INFO: Latest version date -->Mar 25, 2024
+Oct 15, 2024 12:44:59 PM org.example.Main main
+INFO: hibernate-validator-->org.hibernate.validator 
+Oct 15, 2024 12:45:12 PM org.example.Main main
+INFO: version free vulnerable -->6.1.5.Final
+Oct 15, 2024 12:45:12 PM org.example.Main main
+INFO: Latest version -->9.0.0.Beta3
+Oct 15, 2024 12:45:12 PM org.example.Main main
+INFO: Latest version date -->Sep 04, 2024
+Oct 15, 2024 12:45:15 PM org.example.Main main
+INFO: jackson-annotations-->com.fasterxml.jackson.core 
+Oct 15, 2024 12:45:42 PM org.example.Main main
+INFO: version free vulnerable -->2.0.0-RC2
+Oct 15, 2024 12:45:42 PM org.example.Main main
+INFO: Latest version -->2.18.0
+Oct 15, 2024 12:45:42 PM org.example.Main main
+INFO: Latest version date -->Sep 27, 2024
+Oct 15, 2024 12:45:45 PM org.example.Main main
+INFO: jmimemagic-->jmimemagic 
+Oct 15, 2024 12:45:47 PM org.example.Main main
+INFO:  Element found 
+Oct 15, 2024 12:45:48 PM org.example.Main main
+INFO: version free vulnerable -->0.1.1
+Oct 15, 2024 12:45:48 PM org.example.Main main
+INFO: Latest version -->0.1.2
+Oct 15, 2024 12:45:48 PM org.example.Main main
+INFO: Latest version date -->Mar 26, 2007
+Oct 15, 2024 12:45:50 PM org.example.Main main
+INFO: spring-boot-starter-validation-->org.springframework.boot 
+Oct 15, 2024 12:45:52 PM org.example.Main main
+INFO:  Element found 
+Oct 15, 2024 12:46:14 PM org.example.Main main
+INFO: version free vulnerable -->1.3.1.RELEASE
+Oct 15, 2024 12:46:14 PM org.example.Main main
+INFO: Latest version -->3.3.4
+Oct 15, 2024 12:46:14 PM org.example.Main main
+INFO: Latest version date -->Sep 19, 2024
+Oct 15, 2024 12:46:17 PM org.example.Main main
+INFO: logback-core-->ch.qos.logback 
+Oct 15, 2024 12:46:20 PM org.example.Main main
+INFO:  Element found 
+Oct 15, 2024 12:46:23 PM org.example.Main main
+INFO: version free vulnerable -->1.4.14
+Oct 15, 2024 12:46:23 PM org.example.Main main
+INFO: Latest version -->1.5.10
+Oct 15, 2024 12:46:23 PM org.example.Main main
+INFO: Latest version date -->Oct 12, 2024
+Oct 15, 2024 12:46:26 PM org.example.Main main
+INFO: spring-boot-autoconfigure-->org.springframework.boot 
+Oct 15, 2024 12:46:39 PM org.example.Main main
+INFO: version free vulnerable -->3.0.7
+Oct 15, 2024 12:46:39 PM org.example.Main main
+INFO: Latest version -->3.3.4
+Oct 15, 2024 12:46:39 PM org.example.Main main
+INFO: Latest version date -->Sep 19, 2024
+Oct 15, 2024 12:46:42 PM org.example.Main main
+INFO: spring-boot-starter-json-->org.springframework.boot 
+Oct 15, 2024 12:47:10 PM org.example.Main main
+INFO: version free vulnerable -->2.0.1.RELEASE
+Oct 15, 2024 12:47:10 PM org.example.Main main
+INFO: Latest version -->3.3.4
+Oct 15, 2024 12:47:10 PM org.example.Main main
+INFO: Latest version date -->Sep 19, 2024
+Oct 15, 2024 12:47:13 PM org.example.Main main
+INFO: java-dogstatsd-client-->com.datadoghq 
+Oct 15, 2024 12:47:25 PM org.example.Main main
+INFO: version free vulnerable -->2.1.1
+Oct 15, 2024 12:47:25 PM org.example.Main main
+INFO: Latest version -->4.4.3
+Oct 15, 2024 12:47:25 PM org.example.Main main
+INFO: Latest version date -->Oct 08, 2024
+Oct 15, 2024 12:47:28 PM org.example.Main main
+INFO: commons-validator-->commons-validator 
+Oct 15, 2024 12:47:37 PM org.example.Main main
+INFO: version free vulnerable -->1.0.1
+Oct 15, 2024 12:47:37 PM org.example.Main main
+INFO: Latest version -->1.9.0
+Oct 15, 2024 12:47:37 PM org.example.Main main
+INFO: Latest version date -->May 29, 2024
+Oct 15, 2024 12:47:40 PM org.example.Main main
+INFO: httpclient-->org.apache.httpcomponents 
+Oct 15, 2024 12:47:44 PM org.example.Main main
+INFO: version free vulnerable -->4.5.13
+Oct 15, 2024 12:47:44 PM org.example.Main main
+INFO: Latest version -->4.5.14
+Oct 15, 2024 12:47:44 PM org.example.Main main
+INFO: Latest version date -->Nov 30, 2022
+Oct 15, 2024 12:47:46 PM org.example.Main main
+INFO: commons-csv-->org.apache.commons 
+Oct 15, 2024 12:47:54 PM org.example.Main main
+INFO: version free vulnerable -->1.1
+Oct 15, 2024 12:47:54 PM org.example.Main main
+INFO: Latest version -->1.12.0
+Oct 15, 2024 12:47:54 PM org.example.Main main
+INFO: Latest version date -->Sep 25, 2024
+Oct 15, 2024 12:47:57 PM org.example.Main main
+INFO: dcp-lib-email-transport-->uk.org.fca.gabriel 
+Oct 15, 2024 12:47:58 PM org.example.Main main
+WARNING: no such element: Unable to locate element: {"method":"css selector","selector":".tab_container"}
+  (Session info: chrome=129.0.6668.100)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'AAP-5CG0234R6R', ip: '192.168.7.51', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_351'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [de4a612a00d995a9025b136e15cdc46b, findElement {using=class name, value=tab_container}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.100, chrome: {chromedriverVersion: 129.0.6668.91 (b00bc8b76d60..., userDataDir: C:\Users\YRAVIC~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50547}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50547/devtoo..., se:cdpVersion: 129.0.6668.100, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: de4a612a00d995a9025b136e15cdc46b
+Oct 15, 2024 12:47:58 PM org.example.Main main
+WARNING: https://mvnrepository.com/artifact/uk.org.fca.gabriel/dcp-lib-email-transport---> Internal lib skipping it
+Oct 15, 2024 12:48:00 PM org.example.Main main
+INFO: javax.mail-->com.sun.mail 
+Oct 15, 2024 12:48:08 PM org.example.Main main
+INFO: version free vulnerable -->1.4.4
+Oct 15, 2024 12:48:08 PM org.example.Main main
+INFO: Latest version -->1.6.2
+Oct 15, 2024 12:48:08 PM org.example.Main main
+INFO: Latest version date -->Aug 29, 2018
+Oct 15, 2024 12:48:11 PM org.example.Main main
+INFO: opencsv-->com.opencsv 
+Oct 15, 2024 12:48:21 PM org.example.Main main
+INFO: version free vulnerable -->3.2
+Oct 15, 2024 12:48:21 PM org.example.Main main
+INFO: Latest version -->5.9
+Oct 15, 2024 12:48:21 PM org.example.Main main
+INFO: Latest version date -->Nov 22, 2023
+Oct 15, 2024 12:48:24 PM org.example.Main main
+INFO: dcp-lib-firmschedulecalculation-->uk.org.fca.gabriel 
+Oct 15, 2024 12:48:25 PM org.example.Main main
+WARNING: no such element: Unable to locate element: {"method":"css selector","selector":".tab_container"}
+  (Session info: chrome=129.0.6668.100)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'AAP-5CG0234R6R', ip: '192.168.7.51', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_351'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6da1abc33694767bb2b0ceb337d9345b, findElement {using=class name, value=tab_container}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.100, chrome: {chromedriverVersion: 129.0.6668.91 (b00bc8b76d60..., userDataDir: C:\Users\YRAVIC~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50933}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50933/devtoo..., se:cdpVersion: 129.0.6668.100, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6da1abc33694767bb2b0ceb337d9345b
+Oct 15, 2024 12:48:25 PM org.example.Main main
+WARNING: https://mvnrepository.com/artifact/uk.org.fca.gabriel/dcp-lib-firmschedulecalculation---> Internal lib skipping it
+Oct 15, 2024 12:48:27 PM org.example.Main main
+INFO: jackson-datatype-jsr310-->com.fasterxml.jackson.datatype 
+Oct 15, 2024 12:48:41 PM org.example.Main main
+INFO: version free vulnerable -->2.9.8
+Oct 15, 2024 12:48:41 PM org.example.Main main
+INFO: Latest version -->2.18.0
+Oct 15, 2024 12:48:41 PM org.example.Main main
+INFO: Latest version date -->Sep 27, 2024
+Oct 15, 2024 12:48:44 PM org.example.Main main
+INFO: drools-compiler-->org.drools 
+Oct 15, 2024 12:49:22 PM org.example.Main main
+INFO: version free vulnerable -->5.0.0.M4
+Oct 15, 2024 12:49:22 PM org.example.Main main
+INFO: Latest version -->9.44.0.Final
+Oct 15, 2024 12:49:22 PM org.example.Main main
+INFO: Latest version date -->Sep 06, 2023
+Oct 15, 2024 12:49:25 PM org.example.Main main
+INFO: drools-decisiontables-->org.drools 
+Oct 15, 2024 12:50:03 PM org.example.Main main
+INFO: version free vulnerable -->5.0.0.M4
+Oct 15, 2024 12:50:03 PM org.example.Main main
+INFO: Latest version -->9.44.0.Final
+Oct 15, 2024 12:50:03 PM org.example.Main main
+INFO: Latest version date -->Sep 06, 2023
+Oct 15, 2024 12:50:06 PM org.example.Main main
+INFO: junit-platform-engine-->org.junit.platform 
+Oct 15, 2024 12:50:21 PM org.example.Main main
+INFO: version free vulnerable -->1.0.0-M2
+Oct 15, 2024 12:50:21 PM org.example.Main main
+INFO: Latest version -->1.11.2
+Oct 15, 2024 12:50:21 PM org.example.Main main
+INFO: Latest version date -->Oct 04, 2024
+Oct 15, 2024 12:50:24 PM org.example.Main main
+INFO: jaxb2-maven-plugin-->org.codehaus.mojo 
+Oct 15, 2024 12:50:32 PM org.example.Main main
+INFO: version free vulnerable -->1.1
+Oct 15, 2024 12:50:32 PM org.example.Main main
+INFO: Latest version -->3.2.0
+Oct 15, 2024 12:50:32 PM org.example.Main main
+INFO: Latest version date -->Apr 15, 2024
+Oct 15, 2024 12:50:34 PM org.example.Main main
+INFO: wsdl4j-->wsdl4j 
+Oct 15, 2024 12:50:39 PM org.example.Main main
+INFO: version free vulnerable -->1.4
+Oct 15, 2024 12:50:39 PM org.example.Main main
+INFO: Latest version -->1.6.3
+Oct 15, 2024 12:50:39 PM org.example.Main main
+INFO: Latest version date -->Feb 27, 2013
+Oct 15, 2024 12:50:45 PM org.example.Main main
+INFO: dcp-b2bgateway-wsdl-->uk.gov.fsa.mer.gateway 
+Oct 15, 2024 12:50:46 PM org.example.Main main
+WARNING: no such element: Unable to locate element: {"method":"css selector","selector":".tab_container"}
+  (Session info: chrome=129.0.6668.100)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'AAP-5CG0234R6R', ip: '192.168.7.51', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_351'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [de4d3f84e8bb88e64bceff363ce61a3a, findElement {using=class name, value=tab_container}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.100, chrome: {chromedriverVersion: 129.0.6668.91 (b00bc8b76d60..., userDataDir: C:\Users\YRAVIC~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52089}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52089/devtoo..., se:cdpVersion: 129.0.6668.100, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: de4d3f84e8bb88e64bceff363ce61a3a
+Oct 15, 2024 12:50:46 PM org.example.Main main
+WARNING: https://mvnrepository.com/artifact/uk.gov.fsa.mer.gateway/dcp-b2bgateway-wsdl---> Internal lib skipping it
+Oct 15, 2024 12:50:48 PM org.example.Main main
+INFO: spring-ws-security-->org.springframework.ws 
+Oct 15, 2024 12:51:05 PM org.example.Main main
+INFO: version free vulnerable -->1.0-m3
+Oct 15, 2024 12:51:05 PM org.example.Main main
+INFO: Latest version -->4.0.11
+Oct 15, 2024 12:51:05 PM org.example.Main main
+INFO: Latest version date -->May 17, 2024
+Oct 15, 2024 12:51:07 PM org.example.Main main
+INFO: cxf-rt-frontend-jaxws-->org.apache.cxf 
+Oct 15, 2024 12:51:37 PM org.example.Main main
+INFO: version free vulnerable -->2.0.7
+Oct 15, 2024 12:51:37 PM org.example.Main main
+INFO: Latest version -->4.0.5
+Oct 15, 2024 12:51:37 PM org.example.Main main
+INFO: Latest version date -->Jul 17, 2024
+Oct 15, 2024 12:51:40 PM org.example.Main main
+INFO: picocli-->info.picocli 
+Oct 15, 2024 12:51:59 PM org.example.Main main
+INFO: version free vulnerable -->0.9.1
+Oct 15, 2024 12:51:59 PM org.example.Main main
+INFO: Latest version -->4.7.6
+Oct 15, 2024 12:51:59 PM org.example.Main main
+INFO: Latest version date -->May 07, 2024
+Oct 15, 2024 12:52:02 PM org.example.Main main
+INFO: scala-library-->org.scala-lang 
+Oct 15, 2024 12:52:04 PM org.example.Main main
+INFO:  Element found 
+Oct 15, 2024 12:52:08 PM org.example.Main main
+INFO: version free vulnerable -->2.13.9
+Oct 15, 2024 12:52:08 PM org.example.Main main
+INFO: Latest version -->2.13.15
+Oct 15, 2024 12:52:08 PM org.example.Main main
+INFO: Latest version date -->Sep 20, 2024
+Oct 15, 2024 12:52:11 PM org.example.Main main
+INFO: spark-core_2.12-->org.apache.spark 
+Oct 15, 2024 12:52:19 PM org.example.Main main
+INFO: version free vulnerable -->2.12
+Oct 15, 2024 12:52:19 PM org.example.Main main
+INFO: Latest version -->3.5.3
+Oct 15, 2024 12:52:19 PM org.example.Main main
+INFO: Latest version date -->Sep 18, 2024
+Oct 15, 2024 12:52:22 PM org.example.Main main
+INFO: spark-sql_2.12-->org.apache.spark 
+Oct 15, 2024 12:52:33 PM org.example.Main main
+INFO: version free vulnerable -->2.12
+Oct 15, 2024 12:52:33 PM org.example.Main main
+INFO: Latest version -->3.5.3
+Oct 15, 2024 12:52:33 PM org.example.Main main
+INFO: Latest version date -->Sep 18, 2024
+Oct 15, 2024 12:52:36 PM org.example.Main main
+INFO: aws-java-sdk-->com.amazonaws 
+Oct 15, 2024 12:56:26 PM org.example.Main main
+INFO: version free vulnerable -->1.0.001
+Oct 15, 2024 12:56:26 PM org.example.Main main
+INFO: Latest version -->1.12.773
+Oct 15, 2024 12:56:26 PM org.example.Main main
+INFO: Latest version date -->Oct 02, 2024
+Oct 15, 2024 12:56:29 PM org.example.Main main
+INFO: config-->com.typesafe 
+Oct 15, 2024 12:56:33 PM org.example.Main main
+INFO: version free vulnerable -->1.3.0
+Oct 15, 2024 12:56:33 PM org.example.Main main
+INFO: Latest version -->1.4.3
+Oct 15, 2024 12:56:33 PM org.example.Main main
+INFO: Latest version date -->Jun 14, 2024
+Oct 15, 2024 12:56:36 PM org.example.Main main
+INFO: hadoop-client-->org.apache.hadoop 
+Oct 15, 2024 12:56:49 PM org.example.Main main
+INFO: version free vulnerable -->2.7.0
+Oct 15, 2024 12:56:49 PM org.example.Main main
+INFO: Latest version -->3.4.0
+Oct 15, 2024 12:56:49 PM org.example.Main main
+INFO: Latest version date -->Mar 19, 2024
+Oct 15, 2024 12:56:51 PM org.example.Main main
+INFO: hadoop-aws-->org.apache.hadoop 
+Oct 15, 2024 12:57:04 PM org.example.Main main
+INFO: version free vulnerable -->2.6.1
+Oct 15, 2024 12:57:04 PM org.example.Main main
+INFO: Latest version -->3.4.0
+Oct 15, 2024 12:57:04 PM org.example.Main main
+INFO: Latest version date -->Mar 19, 2024
+Oct 15, 2024 12:57:07 PM org.example.Main main
+INFO: lift-json_2.12-->net.liftweb 
+Oct 15, 2024 12:57:16 PM org.example.Main main
+INFO: version free vulnerable -->3.0.2
+Oct 15, 2024 12:57:16 PM org.example.Main main
+INFO: Latest version -->3.5.0
+Oct 15, 2024 12:57:16 PM org.example.Main main
+INFO: Latest version date -->Oct 08, 2021
+Oct 15, 2024 12:57:18 PM org.example.Main main
+INFO: scalatest_2.12-->org.scalatest 
+Oct 15, 2024 12:57:21 PM org.example.Main main
+INFO:  Element found 
+Oct 15, 2024 12:57:36 PM org.example.Main main
+INFO: version free vulnerable -->2.12
+Oct 15, 2024 12:57:36 PM org.example.Main main
+INFO: Latest version -->3.3.0-alpha.1
+Oct 15, 2024 12:57:36 PM org.example.Main main
+INFO: Latest version date -->Dec 18, 2023
+Oct 15, 2024 12:57:39 PM org.example.Main main
+INFO: mockito-scala-scalatest_2.12-->org.mockito 
+Oct 15, 2024 12:58:01 PM org.example.Main main
+INFO: version free vulnerable -->2.12
+Oct 15, 2024 12:58:01 PM org.example.Main main
+INFO: Latest version -->1.17.37
+Oct 15, 2024 12:58:01 PM org.example.Main main
+INFO: Latest version date -->Jun 24, 2024
+Oct 15, 2024 12:58:03 PM org.example.Main main
+INFO: janino-->org.codehaus.janino 
+Oct 15, 2024 12:58:14 PM org.example.Main main
+INFO: version free vulnerable -->2.5.16
+Oct 15, 2024 12:58:14 PM org.example.Main main
+INFO: Latest version -->3.1.12
+Oct 15, 2024 12:58:14 PM org.example.Main main
+INFO: Latest version date -->Feb 06, 2024
+Oct 15, 2024 12:58:16 PM org.example.Main main
+INFO: spark-xml_2.11-->com.databricks 
+Oct 15, 2024 12:58:25 PM org.example.Main main
+INFO: version free vulnerable -->2.11
+Oct 15, 2024 12:58:25 PM org.example.Main main
+INFO: Latest version -->0.13.0
+Oct 15, 2024 12:58:25 PM org.example.Main main
+INFO: Latest version date -->Sep 21, 2021
+Oct 15, 2024 12:58:28 PM org.example.Main main
+INFO: jackson-module-scala_2.12-->com.fasterxml.jackson.module 
+Oct 15, 2024 12:58:46 PM org.example.Main main
+INFO: version free vulnerable -->2.7.9
+Oct 15, 2024 12:58:46 PM org.example.Main main
+INFO: Latest version -->2.18.0
+Oct 15, 2024 12:58:46 PM org.example.Main main
+INFO: Latest version date -->Sep 27, 2024
