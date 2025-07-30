@@ -1,1 +1,58 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["config:base"],
+  
+  // Dashboard for monitoring (creates GitHub issue)
+  "dependencyDashboard": true,
+  "dependencyDashboardTitle": "📊 Dependency Monitoring Dashboard",
+  "dependencyDashboardHeader": "This dashboard tracks outdated dependencies across Maven and npm packages.",
+  
 
+  
+  // Disable automatic PR creation for monitoring-only mode
+  "prCreation": "not-pending",
+  "platformAutomerge": false,
+  "automerge": false,
+  
+  // Schedule when to check for updates
+  "schedule": ["before 9am on Monday"],
+  "timezone": "UTC",
+  
+  // Enable both Maven and npm managers
+  "enabledManagers": ["maven", "npm"],
+  
+  // Package-specific rules
+  "packageRules": [
+    {
+      "matchManagers": ["maven"],
+      "groupName": "Maven Dependencies",
+      "enabled": true
+    },
+    {
+      "matchManagers": ["npm"],
+      "groupName": "npm Dependencies", 
+      "enabled": true
+    },
+    {
+      // Separate security updates for visibility
+      "matchCurrentVersion": "!/^0/",
+      "vulnerabilityAlerts": true,
+      "groupName": "Security Updates",
+      "prPriority": 10
+    }
+  ],
+  
+  // Customize PR titles and commit messages
+  "commitMessagePrefix": "[DEPS]",
+  "prTitle": "{{#if isPinDigest}}{{{commitMessagePrefix}}} Pin {{depName}} digest{{else}}{{{commitMessagePrefix}}} Update {{depName}}{{#if isMajor}} (major){{/if}}{{#if isMinor}} (minor){{/if}}{{#if isPatch}} (patch){{/if}}{{/if}}",
+  
+  // Labels to add to PRs (when created)
+  "labels": ["dependencies", "renovate"],
+  
+  // Include release notes and changelogs
+  "prBodyTemplate": "{{{header}}}{{{table}}}{{{notes}}}{{{changelogs}}}{{{footer}}}",
+  
+  // Limit concurrent PRs (if you decide to enable them later)
+  "prConcurrentLimit": 5,
+  "prHourlyLimit": 2
+}
