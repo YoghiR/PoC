@@ -2,57 +2,72 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": ["config:base"],
   
-  // Dashboard for monitoring (creates GitHub issue)
-  "dependencyDashboard": true,
-  "dependencyDashboardTitle": "📊 Dependency Monitoring Dashboard",
-  "dependencyDashboardHeader": "This dashboard tracks outdated dependencies across Maven and npm packages.",
-  
-
-  
-  // Disable automatic PR creation for monitoring-only mode
-  "prCreation": "not-pending",
+  // ========== TRACKING ONLY MODE ==========
+  // Completely disable PR/MR creation
+  "dryRun": false,
+  "prCreation": "never",
   "platformAutomerge": false,
   "automerge": false,
   
-  // Schedule when to check for updates
+  // Enable dependency dashboard for tracking
+  "dependencyDashboard": true,
+  "dependencyDashboardTitle": "🔍 Dependencies & Versions Tracker",
+  "dependencyDashboardHeader": "**Tracking Mode**: This dashboard only monitors and reports dependency versions. No automatic updates will be performed.",
+  
+  // ========== SCHEDULING ==========
   "schedule": ["before 9am on Monday"],
   "timezone": "UTC",
   
-  // Enable both Maven and npm managers
+  // ========== PACKAGE MANAGERS ==========
   "enabledManagers": ["maven", "npm"],
   
-  // Package-specific rules
+  // ========== TRACKING CONFIGURATION ==========
   "packageRules": [
     {
       "matchManagers": ["maven"],
-      "groupName": "Maven Dependencies",
-      "enabled": true
+      "enabled": true,
+      "prCreation": "never",
+      "description": "Track Maven dependencies in pom.xml files"
     },
     {
-      "matchManagers": ["npm"],
-      "groupName": "npm Dependencies", 
-      "enabled": true
+      "matchManagers": ["npm"], 
+      "enabled": true,
+      "prCreation": "never",
+      "description": "Track npm dependencies in package.json files"
     },
     {
-      // Separate security updates for visibility
-      "matchCurrentVersion": "!/^0/",
+      // Track security vulnerabilities with high visibility
+      "matchDatasources": ["maven", "npm"],
       "vulnerabilityAlerts": true,
-      "groupName": "Security Updates",
-      "prPriority": 10
+      "prCreation": "never",
+      "labels": ["security-tracking"]
     }
   ],
   
-  // Customize PR titles and commit messages
-  "commitMessagePrefix": "[DEPS]",
-  "prTitle": "{{#if isPinDigest}}{{{commitMessagePrefix}}} Pin {{depName}} digest{{else}}{{{commitMessagePrefix}}} Update {{depName}}{{#if isMajor}} (major){{/if}}{{#if isMinor}} (minor){{/if}}{{#if isPatch}} (patch){{/if}}{{/if}}",
+  // ========== DASHBOARD CUSTOMIZATION ==========
+  "dependencyDashboardFooter": "**Note**: This is a tracking-only setup. Review the above information to make informed decisions about dependency updates.",
   
-  // Labels to add to PRs (when created)
-  "labels": ["dependencies", "renovate"],
+  // Include detailed information in dashboard
+  "includeForks": false,
+  "repositoryCache": "enabled",
   
-  // Include release notes and changelogs
-  "prBodyTemplate": "{{{header}}}{{{table}}}{{{notes}}}{{{changelogs}}}{{{footer}}}",
+  // ========== LOGGING & REPORTING ==========
+  "logLevel": "info",
+  "onboarding": false,
+  "requireConfig": "optional",
   
-  // Limit concurrent PRs (if you decide to enable them later)
-  "prConcurrentLimit": 5,
-  "prHourlyLimit": 2
+  // ========== GROUPING FOR BETTER TRACKING ==========
+  "major": {
+    "enabled": true
+  },
+  "minor": {
+    "enabled": true  
+  },
+  "patch": {
+    "enabled": true
+  },
+  
+  // Group related packages for easier tracking
+  "groupName": "All Dependencies Tracking",
+  "semanticCommits": "disabled"
 }
