@@ -1,6 +1,73 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": [
-    "config:recommended"
-  ]
+  "extends": ["config:base"],
+  
+  // ========== TRACKING ONLY MODE ==========
+  // Completely disable PR/MR creation
+  "dryRun": false,
+  "prCreation": "never",
+  "platformAutomerge": false,
+  "automerge": false,
+  
+  // Enable dependency dashboard for tracking
+  "dependencyDashboard": true,
+  "dependencyDashboardTitle": "🔍 Dependencies & Versions Tracker",
+  "dependencyDashboardHeader": "**Tracking Mode**: This dashboard only monitors and reports dependency versions. No automatic updates will be performed.",
+  
+  // ========== SCHEDULING ==========
+  "schedule": ["before 9am on Monday"],
+  "timezone": "UTC",
+  
+  // ========== PACKAGE MANAGERS ==========
+  "enabledManagers": ["maven", "npm"],
+  
+  // ========== TRACKING CONFIGURATION ==========
+  "packageRules": [
+    {
+      "matchManagers": ["maven"],
+      "enabled": true,
+      "prCreation": "never",
+      "description": "Track Maven dependencies in pom.xml files"
+    },
+    {
+      "matchManagers": ["npm"], 
+      "enabled": true,
+      "prCreation": "never",
+      "description": "Track npm dependencies in package.json files"
+    },
+    {
+      // Track security vulnerabilities with high visibility
+      "matchDatasources": ["maven", "npm"],
+      "vulnerabilityAlerts": true,
+      "prCreation": "never",
+      "labels": ["security-tracking"]
+    }
+  ],
+  
+  // ========== DASHBOARD CUSTOMIZATION ==========
+  "dependencyDashboardFooter": "**Note**: This is a tracking-only setup. Review the above information to make informed decisions about dependency updates.",
+  
+  // Include detailed information in dashboard
+  "includeForks": false,
+  "repositoryCache": "enabled",
+  
+  // ========== LOGGING & REPORTING ==========
+  "logLevel": "info",
+  "onboarding": false,
+  "requireConfig": "optional",
+  
+  // ========== GROUPING FOR BETTER TRACKING ==========
+  "major": {
+    "enabled": true
+  },
+  "minor": {
+    "enabled": true  
+  },
+  "patch": {
+    "enabled": true
+  },
+  
+  // Group related packages for easier tracking
+  "groupName": "All Dependencies Tracking",
+  "semanticCommits": "disabled"
 }
