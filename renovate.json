@@ -51,11 +51,7 @@
   "includeForks": false,
   "repositoryCache": "enabled",
   
-  // ========== LOGGING & REPORTING ==========
-  "logLevel": "info",
-  "onboarding": false,
-  "requireConfig": "optional",
-  
+ 
   // ========== GROUPING FOR BETTER TRACKING ==========
   "major": {
     "enabled": true
