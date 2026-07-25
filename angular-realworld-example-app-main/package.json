@@ -11,7 +11,7 @@
     "prepare": "husky install"
   },
   "engines": {
-    "node": "^20.11.1"
+    "node": "^24.0.0"
   },
   "private": true,
   "dependencies": {
@@ -23,9 +23,9 @@
     "@angular/platform-browser": "20.0.0",
     "@angular/platform-browser-dynamic": "20.0.0",
     "@angular/router": "20.0.0",
-    "@rx-angular/cdk": "18.0.0",
-    "@rx-angular/template": "18.0.0",
-    "marked": "^11.1.0",
+    "@rx-angular/cdk": "21.1.1",
+    "@rx-angular/template": "21.2.1",
+    "marked": "^18.0.0",
     "rxjs": "^7.4.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.15.1"
@@ -35,10 +35,10 @@
     "@angular/cli": "^20.0.0",
     "@angular/compiler-cli": "20.0.0",
     "@types/marked": "^6.0.0",
-    "husky": "^8.0.3",
-    "lint-staged": "^16.1.2",
+    "husky": "^9.0.0",
+    "lint-staged": "^17.0.0",
     "prettier": "^3.1.1",
-    "typescript": "~5.8.3"
+    "typescript": "~7.0.0"
   },
   "lint-staged": {
     "*.{ts,html,css,json,md}": "prettier --write"
